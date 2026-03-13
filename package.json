@@ -1,6 +1,6 @@
 {
   "packages": [
-    "com.reader.pdf",
+    "com.qrcode.qrscanner.barcodescanner.reader",
     "com.example.test",
     "com.nlbn.app"
   ]
