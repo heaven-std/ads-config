@@ -1,0 +1,7 @@
+{
+  "packages": [
+    "com.reader.pdf",
+    "com.example.test",
+    "com.nlbn.app"
+  ]
+}
