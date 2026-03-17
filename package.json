@@ -1,7 +1,7 @@
 {
   "packages": [
-    "com.qrcode.qrscanner.barcodescanner.reader1",
-    "com.example.test",
+    "com.qrcode.qrscanner.barcodescanner.reader",
+    "com.qrcodescanner.qrscanner.barcodescanner",
     "com.nlbn.app"
   ]
 }
