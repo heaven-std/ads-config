@@ -2,6 +2,7 @@
   "packages": [
     "com.qrcode.qrscanner.barcodescanner.reader",
     "com.qrcodescanner.qrscanner.barcodescanner",
-    "com.zipperlock.lockscreen.wallpaper.locker"
+    "com.zipperlock.lockscreen.wallpaper.locker",
+    "com.pregnancy.tracker.healofy.babycenter"
   ]
 }
